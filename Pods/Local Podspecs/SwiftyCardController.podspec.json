@@ -1,0 +1,31 @@
+{
+  "name": "SwiftyCardController",
+  "version": "0.2.0",
+  "summary": "A card stack container view controller",
+  "homepage": "https://github.com/asowers1/SwiftyCardController",
+  "license": "MIT",
+  "authors": {
+    "Andrew Sowers": "asow123@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/andrewsowers",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/asowers1/SwiftyCardController.git",
+    "commit": "master"
+  },
+  "source_files": "SwiftyCardController/**/*.swift",
+  "requires_arc": true,
+  "resource_bundles": {
+    "Cards": "SwiftyCardController/**/*.png"
+  },
+  "dependencies": {
+    "lottie-ios": [
+
+    ],
+    "pop": [
+
+    ]
+  }
+}

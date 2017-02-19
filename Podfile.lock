@@ -1,0 +1,30 @@
+PODS:
+  - lottie-ios (1.0.0)
+  - Nimble (6.0.1)
+  - pop (1.0.8)
+  - Quick (1.0.0)
+  - SwiftyCardController (0.2.0):
+    - lottie-ios
+    - pop
+
+DEPENDENCIES:
+  - lottie-ios
+  - Nimble
+  - pop
+  - Quick
+  - SwiftyCardController (from `./`)
+
+EXTERNAL SOURCES:
+  SwiftyCardController:
+    :path: ./
+
+SPEC CHECKSUMS:
+  lottie-ios: c40d67c1481d6fb9fa24fe46731ac823f5f6675b
+  Nimble: 1527fd1bd2b4cf0636251a36bc8ab37e81da8347
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
+  SwiftyCardController: 233c3e1703137bf8233344490f67d5d49a58f940
+
+PODFILE CHECKSUM: 390240b8136bdadadb3afec7848da30d65cf2241
+
+COCOAPODS: 1.1.1

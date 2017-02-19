@@ -1,0 +1,6 @@
+framework module SwiftyCardController {
+  umbrella header "SwiftyCardController-umbrella.h"
+
+  export *
+  module * { export * }
+}
