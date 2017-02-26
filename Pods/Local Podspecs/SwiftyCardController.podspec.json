@@ -21,9 +21,6 @@
     "Cards": "SwiftyCardController/**/*.png"
   },
   "dependencies": {
-    "lottie-ios": [
-
-    ],
     "pop": [
 
     ]
