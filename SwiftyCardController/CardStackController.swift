@@ -22,7 +22,6 @@
 
 import UIKit
 import pop
-import Lottie
 
 /**
  A representation of a card used internally by the view controller.
